@@ -45,7 +45,7 @@ def CheckOpenTcpPort(IP, PORT):
     	return False
 def main():
 
-	DnsAmplificationAttack('1.1.1.1', 1111, '8.8.8.8', 53, "www.maveze.co.il")
+	DnsAmplificationAttack('192.168.1.14', 1111, '8.8.8.8', 53, "www.ynet.co.il")
 	HTTP_PORT = 80
 	SSH_PORT = 22
 	FTP_PORT = 21

