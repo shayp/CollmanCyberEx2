@@ -3,6 +3,8 @@ import argparse
 import socket
 import struct
 
+from DnsAmplification import DnsAmplificationAttack
+
 def GetBinaryIP(IP):
 	try:
 		return struct.unpack("!I", socket.inet_aton(IP))[0]
@@ -42,6 +44,8 @@ def CheckOpenTcpPort(IP, PORT):
 		s.close()
     	return False
 def main():
+
+	DnsAmplificationAttack('1.1.1.1', 1111, '8.8.8.8', 53, "www.maveze.co.il")
 	HTTP_PORT = 80
 	SSH_PORT = 22
 	FTP_PORT = 21
