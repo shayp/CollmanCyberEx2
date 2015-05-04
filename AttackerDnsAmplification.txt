@@ -1,0 +1,143 @@
+No.     Time           Source                Destination           Protocol Length Info
+  29230 0.834913000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29230: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29231 0.834924000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29231: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29232 0.834934000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29232: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29233 0.834945000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29233: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29234 0.834955000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29234: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29235 0.834965000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29235: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29236 0.834975000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29236: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29237 0.834986000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29237: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29238 0.834996000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29238: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29239 0.835006000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29239: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29240 0.835017000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29240: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29241 0.835027000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29241: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29242 0.835038000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29242: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29243 0.835048000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29243: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29244 0.835113000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29244: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+  29245 0.835124000    192.168.1.14          8.8.8.8               DNS      90     Standard query 0x0ec4  Unused www.ynet.co.il
+
+Frame 29245: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: Vmware_e3:df:41 (00:0c:29:e3:df:41), Dst: Vmware_ec:c0:ec (00:50:56:ec:c0:ec)
+Internet Protocol Version 4, Src: 192.168.1.14 (192.168.1.14), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: nnp (3780), Dst Port: domain (53)
+Domain Name System (query)t
